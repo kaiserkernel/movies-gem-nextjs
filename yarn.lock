@@ -3721,10 +3721,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@twicpics/components@npm:^0.29.2":
-  version: 0.29.2
-  resolution: "@twicpics/components@npm:0.29.2"
-  checksum: 10c0/ff02847b45655932e9dd778e5cbcde8a66f9b346586a5673c9646193ec2fd377ad7334f0819a7f09fb186aceac7092802adb8f6679992cca9a2c36f2e3b186fa
+"@twicpics/components@npm:^0.30.0":
+  version: 0.30.0
+  resolution: "@twicpics/components@npm:0.30.0"
+  checksum: 10c0/02eb2adf7968c7708320fc511096736f4d19f6d58df751fa685350ebe6efb01399d21e7c5f08929c867b2af447ffd918b234c5dae86ebee86c4568ecc2d68100
   languageName: node
   linkType: hard
 
@@ -18022,7 +18022,7 @@ __metadata:
     "@storybook/addon-essentials": "npm:^6.5.12"
     "@storybook/addon-links": "npm:^6.5.12"
     "@storybook/react": "npm:^6.5.12"
-    "@twicpics/components": "npm:^0.29.2"
+    "@twicpics/components": "npm:^0.30.0"
     "@types/react": "npm:^18.2.55"
     "@types/react-dom": "npm:^18.2.19"
     "@types/styled-components": "npm:^5.1.34"
