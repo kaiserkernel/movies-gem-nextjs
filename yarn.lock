@@ -2177,12 +2177,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@meilisearch/instant-meilisearch@npm:0.16.0":
-  version: 0.16.0
-  resolution: "@meilisearch/instant-meilisearch@npm:0.16.0"
+"@meilisearch/instant-meilisearch@npm:0.22.0":
+  version: 0.22.0
+  resolution: "@meilisearch/instant-meilisearch@npm:0.22.0"
   dependencies:
-    meilisearch: "npm:^0.37.0"
-  checksum: 10c0/ba43c787f6f7d436b0460977dbf71f0488d539b6adc1fc61023b03334b16136f3e9c8832723c5db5f07a4c1bf5503cc614a9d6ac0d7848c31c04d80b2a13e324
+    meilisearch: "npm:^0.45.0"
+  checksum: 10c0/8c972ae0a62e3a94f5e7054027fdf47e59046540d665707b39f7bf13c202b594f4dd6831a110baee7fdb2b99fd95866e38f52520941be1734c2080cddd30da96
   languageName: node
   linkType: hard
 
@@ -12103,21 +12103,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"meilisearch@npm:^0.37.0":
-  version: 0.37.0
-  resolution: "meilisearch@npm:0.37.0"
-  dependencies:
-    cross-fetch: "npm:^3.1.6"
-  checksum: 10c0/e9899adccdf57d3b496189e8aa0a7ad9c805f84fb10473273f91746be58424216aebec58cd51f4bec2201f0ec3a1451766a3f838b9c3567ceeb927b1cdef65f7
-  languageName: node
-  linkType: hard
-
 "meilisearch@npm:^0.41.0":
   version: 0.41.0
   resolution: "meilisearch@npm:0.41.0"
   dependencies:
     cross-fetch: "npm:^3.1.6"
   checksum: 10c0/de384d438f0bc09984543830bab1f29aa370e512254ae596dcc9a146871821fe1305e0755817ddb9c790e7bd95f1be83c9101faf49cab6faf6bfae0c226885a0
+  languageName: node
+  linkType: hard
+
+"meilisearch@npm:^0.45.0":
+  version: 0.45.0
+  resolution: "meilisearch@npm:0.45.0"
+  checksum: 10c0/5a4f6ac0d715ce3f826147e9cdc8b28abe6126757e47299f98dd233c7954213ff50c88183f4633a80aad723995b48507a35b57b94cc8447e1c329bd4887cc2b7
   languageName: node
   linkType: hard
 
@@ -18017,7 +18015,7 @@ __metadata:
   resolution: "where-to-watch@workspace:."
   dependencies:
     "@babel/core": "npm:^7.21.3"
-    "@meilisearch/instant-meilisearch": "npm:0.16.0"
+    "@meilisearch/instant-meilisearch": "npm:0.22.0"
     "@storybook/addon-actions": "npm:^6.5.12"
     "@storybook/addon-essentials": "npm:^6.5.12"
     "@storybook/addon-links": "npm:^6.5.12"
